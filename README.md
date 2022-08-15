@@ -1,3 +1,12 @@
-In this project I create an app using Streamlit.
+## Introducción
 
-The app is deployed in Heroku: https://coffee-specialty-app.herokuapp.com/
+Este proyecto hace un despliegue de un dashboard usando la librería Streamlit de Python del dataset sobre evaluaciones de café.
+
+
+## Link del dashboard
+
+https://coffee-specialty-app.herokuapp.com/
+
+## Recordar
+
+Hacer los archivos: Procfile, runtime.txt y setup.sh
